@@ -514,10 +514,10 @@
   color: #42A5F5 !important; }
 
 .blue {
-  background-color: #2196F3 !important; }
+  background-color: #3F51B5 !important; }
 
 .blue-text {
-  color: #2196F3 !important; }
+  color: #3F51B5 !important; }
 
 .blue.darken-1 {
   background-color: #1E88E5 !important; }
@@ -1959,7 +1959,7 @@ ul {
   list-style-type: none; }
 
 a {
-  color: #039be5;
+  color: #3F51B5;
   text-decoration: none; }
 
 .valign-wrapper {
