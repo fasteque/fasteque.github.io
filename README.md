@@ -1,2 +1,2 @@
 # fasteque.github.io
-Personal website.
+Personal website, portfolio and Android blog.
